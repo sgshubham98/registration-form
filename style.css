@@ -1,6 +1,7 @@
 body, html {
   height: 100%;
   margin: 0;
+  padding: 0;
 }
 
 .bg {
@@ -16,7 +17,7 @@ body, html {
 .form{
 	background: transparent;
 	height: 100%;
-	width:30%;
+	width:32%;
 	float: left;
 	font-family: 'Montserrat', sans-serif;
 	letter-spacing: 0.05em;
@@ -27,7 +28,7 @@ input {
 	border-radius: 4px;
 	border: none;
 	background: #D6EAF8;
-	padding: 7px;
+	padding: 10px;
 	margin-left: 10%;
 	width: 70%;
 }
@@ -43,7 +44,7 @@ input {
 	border: 2px solid #5DADE2;
 	background: transparent;
 	padding: 10px 15px;
-	border-radius: 5px;
+	border-radius: 10px;
 	text-align: center;
 	width: 30%;
 	font-family: 'Montserrat', sans-serif;
